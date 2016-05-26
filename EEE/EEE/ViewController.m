@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"tly 修改1---");
+    NSLog(@"tly 修改1---");
+
 }
 
 - (void)didReceiveMemoryWarning {
